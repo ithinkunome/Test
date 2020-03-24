@@ -1,7 +1,4 @@
 return [{
 code:'asdas',
-name:'asd',
-gender:'asd',
-salary:'12312',
-dob:'123123'
+
 }];
