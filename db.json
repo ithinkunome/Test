@@ -1,4 +1,4 @@
-[
+
   {
     id: 1,
     Name: "Farrukh",
@@ -34,4 +34,4 @@
     Name: "Hamza",
     Email: "Hamza@robots.com",
   },
-];
+
